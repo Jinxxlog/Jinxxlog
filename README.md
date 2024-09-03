@@ -38,3 +38,5 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinxxlog&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3" width=94%/>
         </div> 
     </div>
+    
+[![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
