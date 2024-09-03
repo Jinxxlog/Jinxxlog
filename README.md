@@ -19,7 +19,6 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030" width=40%/>
           <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm" width=40%/><br>
-          <img src="https://cf.leed.at?id=mir001030" width=40%/><br>
           <img src="https://banner.codetree.ai/v1/banner/mir001030" width=36%/>
           </div>
     </div>
@@ -38,8 +37,3 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinxxlog&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3" width=94%/>
         </div> 
     </div>
-    
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-[![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
-
