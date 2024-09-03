@@ -36,5 +36,6 @@
     </div>
 
 
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mir001030)](https://solved.ac/mir001030)
-        [![코드트리|실력진단-mir001030](https://banner.codetree.ai/v1/banner/mir001030)](https://www.codetree.ai/profiles/mir001030)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mir001030)](https://solved.ac/mir001030)
+
+[![코드트리|실력진단-mir001030](https://banner.codetree.ai/v1/banner/mir001030)](https://www.codetree.ai/profiles/mir001030)
