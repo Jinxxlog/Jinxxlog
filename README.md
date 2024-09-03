@@ -32,10 +32,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030"/>
         <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm"/>
-        <img src="https://banner.codetree.ai/v1/banner/mir001030"/>
         <img src="https://github-readme-stats.vercel.app/api?username=Jinxxlog&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3"/>
+        <img src="https://banner.codetree.ai/v1/banner/mir001030"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinxxlog&layout=compact&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3"
            /> </div> 
     </div>
-
-[![코드트리|실력진단-mir001030](https://banner.codetree.ai/v1/banner/mir001030)](https://www.codetree.ai/profiles/mir001030)
