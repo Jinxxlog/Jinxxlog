@@ -19,6 +19,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030" width=40%/>
           <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm" width=40%/><br>
+          <img src="https://cf.leed.at?id=mir001030" width=40%/><br>
           <img src="https://banner.codetree.ai/v1/banner/mir001030" width=36%/>
           </div>
     </div>
