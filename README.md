@@ -11,14 +11,13 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)">
+          <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
           </div>
     </div>
         <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔑🔒 Problem Solving </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
           <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           </div>
     </div>
     <div align= "center">
