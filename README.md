@@ -1,4 +1,4 @@
-<!--
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a34fe,100:81e9fe&height=180&text=Hello!&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
@@ -25,5 +25,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinxxlog&layout=compact&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3"
            /> </div> 
     </div>
--->
+
 [![코드트리|실력진단-mir001030](https://banner.codetree.ai/v1/banner/mir001030)](https://www.codetree.ai/profiles/mir001030)
