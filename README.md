@@ -11,10 +11,18 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)">
+          </div>
+    </div>
+        <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔑🔒 Problem Solving </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+          <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://mid-night-coding.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://mid-night-coding.tistory.com/"> </a>
          <a href=mailto:mir00112524@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mir00112524@gmail.com"> </a>
          <a href=https://discordapp.com/users/316293918553538563> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/316293918553538563"> </a>
@@ -26,5 +34,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinxxlog&layout=compact&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3"
            /> </div> 
     </div>
+
+
+
 
 [![코드트리|실력진단-mir001030](https://banner.codetree.ai/v1/banner/mir001030)](https://www.codetree.ai/profiles/mir001030)
