@@ -4,7 +4,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 🤗 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Python/데이터 공부중인 개발자입니다.</li> <br> </li>가천대학교 재학중입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello👋, My name is Jinhyeong Kim, a Python developer studying at Gachon University.</li> <br> </li>Double majoring in S/W engineering, Public Administration </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,7 +31,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💙 Stats </h2> <div align= "center"> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinxxlog&layout=donut&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3" width=38%/>
         <img src="https://github-readme-stats.vercel.app/api?username=Jinxxlog&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3" width=54%/><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinxxlog&bg_color=180,00000000,00000000&title_color=525fa3&text_color=525fa3" width=94%/>
