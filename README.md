@@ -4,9 +4,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 🤗 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030" width=40%/><br>Python/데이터 공부중인 개발자입니다.</li> <br> </li>가천대학교 재학중입니다. </div> 
-        <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm" width=40%/>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Python/데이터 공부중인 개발자입니다.</li> <br> </li>가천대학교 재학중입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -19,6 +17,8 @@
         <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔑🔒 Problem Solving </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030" width=40%/>
+          <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm" width=40%/><br>
           <img src="https://banner.codetree.ai/v1/banner/mir001030"/> <br>
           <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
           <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
