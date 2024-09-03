@@ -39,4 +39,7 @@
         </div> 
     </div>
     
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
+
