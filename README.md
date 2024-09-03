@@ -17,7 +17,6 @@
         <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔑🔒 Problem Solving </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="http://mazassumnida.wtf/api/generate_badge?boj=mir001030" width=40%/>
           <img src="http://mazandi.herokuapp.com/api?handle=mir001030&theme=warm" width=40%/><br>
           <img src="https://banner.codetree.ai/v1/banner/mir001030" width=36%/>
           </div>
