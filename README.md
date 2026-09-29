@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;height=190&amp;color=0:B7A5F5,100:8DE2D5&amp;text=Jinxxlog&amp;fontSize=62&amp;fontColor=242438&amp;animation=fadeIn&amp;desc=CODE%20%C2%B7%20LEARN%20%C2%B7%20BUILD&amp;descSize=14&amp;descAlignY=76" width="100%" alt="Jinxxlog — Code, learn, build">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=190&amp;color=0:B7A5F5,100:8DE2D5&amp;text=Jinxxlog&amp;fontSize=62&amp;fontColor=242438&amp;animation=fadeIn&amp;desc=CODE%20%C2%B7%20LEARN%20%C2%B7%20BUILD&amp;descSize=14&amp;descAlignY=76" width="100%" alt="Jinxxlog — Code, learn, build">
 
   <br>
 
