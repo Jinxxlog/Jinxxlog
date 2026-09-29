@@ -24,8 +24,8 @@
   <h3>🧩 My toolkit</h3>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,mysql,c,unity&amp;theme=dark&amp;perline=4">
-      <img src="https://skillicons.dev/icons?i=py,mysql,c,unity&amp;theme=light&amp;perline=4" height="52" alt="Python, MySQL, C, Unity">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cmysql%2Cc%2Cunity&amp;theme=dark&amp;perline=4">
+      <img src="https://skillicons.dev/icons?i=py%2Cmysql%2Cc%2Cunity&amp;theme=light&amp;perline=4" height="52" alt="Python, MySQL, C, Unity">
     </picture>
   </p>
   <p><sub>Python &nbsp; / &nbsp; MySQL &nbsp; / &nbsp; C &nbsp; / &nbsp; Unity</sub></p>
